@@ -1,0 +1,88 @@
+{
+    "concerts" : [
+        {
+            "date" : "2025-02-01",
+            "location" : "The Fillmore - Miami, FL",
+            "city" : "Miami, FL",
+            "soldOut" : true
+        },
+        {
+            "date": "2025-02-21",
+            "location": "Huxleys Neue Welt - Berlin, Germany",
+            "city": "Berlin, Germany",
+            "soldOut": false
+        },
+        {
+            "date": "2025-02-22",
+            "location": "Fabrik - Hamburg, Germany",
+            "city": "Hamburg, Germany",
+            "soldOut": false
+        },
+        {
+            "date": "2025-02-24",
+            "location": "Rockefeller Music Hall - Oslo, Norway",
+            "city": "Oslo, Norway",
+            "soldOut": true
+        },
+        {
+            "date": "2025-02-25",
+            "location": "Berns - Stockholm, Sweden",
+            "city": "Stockholm, Sweden",
+            "soldOut": true
+        },
+        {
+            "date": "2025-02-26",
+            "location": "Vega - Copenhagen, Denmark",
+            "city": "Copenhagen, Denmark",
+            "soldOut": false
+        },
+        {
+            "date": "2025-02-28",
+            "location": "Melkweg - Amsterdam, Netherlands",
+            "city": "Amsterdam, Netherlands",
+            "soldOut": true
+        },
+        {
+            "date": "2025-03-01",
+            "location": "Melkweg - Amsterdam, Netherlands",
+            "city": "Amsterdam, Netherlands",
+            "soldOut": true
+        },
+        {
+            "date": "2025-03-03",
+            "location": "Live Music Hall - Cologne, Germany",
+            "city": "Cologne, Germany",
+            "soldOut": false
+        },
+        {
+            "date": "2025-03-04",
+            "location": "Salle Playel - Paris, France",
+            "city": "Paris, France",
+            "soldOut": false
+        },
+        {
+            "date": "2025-03-06",
+            "location": "O2 Academy Brixton - London, UK",
+            "city": "London, UK",
+            "soldOut": true
+        },
+        {
+            "date": "2025-03-07",
+            "location": "Manshester Academy - Manchester, UK",
+            "city": "Manchester, UK",
+            "soldOut": true
+        },
+        {
+            "date": "2025-03-08",
+            "location": "SWG3 Galvanizers - Glasgow, UK",
+            "city": "Glasgow, UK",
+            "soldOut": true
+        },
+        {
+            "date": "2025-03-10",
+            "location": "3Olympia Theatre - Dublin, Ireland",
+            "city": "Dublin, Ireland",
+            "soldOut": false
+        }
+    ]
+}

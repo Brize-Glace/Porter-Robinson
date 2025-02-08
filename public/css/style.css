@@ -101,7 +101,32 @@ body {
     text-align: center;
     padding: 2.5rem 0;
 }
-
+#citySelector{
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #2b1620;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 20px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.19);
+    backdrop-filter: blur(20px);
+    -o-backdrop-filter: blur(20px);
+    -moz-backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 20px;
+    overflow: hidden;
+    outline: none;
+}
+#citySelector option{
+    background: #2b1620;
+    color: #F376AC;
+    font-size: 15px;
+    padding: 0;
+    text-align: center;
+    overflow: hidden;
+}
 .digit_name {
     color: #F376AC;
     background: #2b1620;

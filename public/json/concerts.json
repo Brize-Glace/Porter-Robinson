@@ -1,12 +1,6 @@
 {
     "concerts" : [
         {
-            "date" : "2025-02-01",
-            "location" : "The Fillmore - Miami, FL",
-            "city" : "Miami, FL",
-            "soldOut" : true
-        },
-        {
             "date": "2025-02-21",
             "location": "Huxleys Neue Welt - Berlin, Germany",
             "city": "Berlin, Germany",
